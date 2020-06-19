@@ -1,0 +1,8 @@
+{
+  "name": "multiserviciosapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a9c619b2"
+}
